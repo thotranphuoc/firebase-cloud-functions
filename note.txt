@@ -1,0 +1,15 @@
+// firebase init
+firebase init
+
+// to check potential error codes, 
+npm run-script lint
+
+// compile code from ts to js
+npm run-script build
+
+// run local serve with functions
+firebase serve --only functions
+
+// run test http trigger request
+1: -> copy & paste url in browser
+2: -> curl 'url'
