@@ -13,3 +13,6 @@ firebase serve --only functions
 // run test http trigger request
 1: -> copy & paste url in browser
 2: -> curl 'url'
+
+// run script to create data
+node ./lib/dialog.js
